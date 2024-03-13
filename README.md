@@ -1,5 +1,5 @@
 # teamable
-this is an application for managing user profile
+this is an application for managing new user profile
 
 ### to run the tests, execute
     npm test
